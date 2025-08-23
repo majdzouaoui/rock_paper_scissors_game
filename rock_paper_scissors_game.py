@@ -27,7 +27,7 @@ while True:
         print("you lost") 
         computer_wins += 1
 print(f"you win {user_wins} times and lost {computer_wins} times")    
-print("goodbye") 
+print("the end , goodbye") 
     
     
     
